@@ -1,0 +1,47 @@
+Last login: Sun Mar  9 20:56:54 on ttys001
+(base) amanibegari@Amanis-MacBook-Pro ~ % cd /Users/Amani Begari/Documents/music-recommendation
+
+cd: string not in pwd: /Users/Amani
+(base) amanibegari@Amanis-MacBook-Pro ~ % touch requirements.txt
+
+(base) amanibegari@Amanis-MacBook-Pro ~ % nano requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                  File: requirements.txt                  Modified  
+
+streamlit
+pandas
+scikit-learn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
